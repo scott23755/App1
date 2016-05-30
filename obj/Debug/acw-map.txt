@@ -1,0 +1,4 @@
+Bored.MainActivity, Bored;md5d670cbd4b654c48e022999efcba31696.MainActivity
+Bored.MainActivity, Bored, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d670cbd4b654c48e022999efcba31696.MainActivity
+Bored.MainActivity;md5d670cbd4b654c48e022999efcba31696.MainActivity
+bored.MainActivity;md5d670cbd4b654c48e022999efcba31696.MainActivity

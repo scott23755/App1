@@ -1,0 +1,17 @@
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/dalton_scott_30_33/Projects/Bored/bin/Debug/Bored.dll.mdb
+/Users/dalton_scott_30_33/Projects/Bored/bin/Debug/Bored.dll
+/Users/dalton_scott_30_33/Projects/Bored/bin/Debug/com.companyname.bored.apk
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/android/bin/com.companyname.bored.apk
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/layout/main.xml
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/values/strings.xml
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/R.cs.flag
+/Users/dalton_scott_30_33/Projects/Bored/bin/Debug/com.companyname.bored-Signed.apk
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/uploadflags.txt
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/Bored.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/Bored.dll.mdb

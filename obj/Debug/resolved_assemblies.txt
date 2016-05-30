@@ -1,0 +1,8 @@
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/Bored.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/System.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/System.Xml.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/Mono.Android.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/System.Core.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/mscorlib.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/dalton_scott_30_33/Projects/Bored/obj/Debug/assemblies/System.ServiceModel.Internals.dll
